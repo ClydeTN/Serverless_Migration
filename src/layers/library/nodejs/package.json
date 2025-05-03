@@ -1,0 +1,10 @@
+{
+    "name": "resume-builder-library",
+    "version": "1.0.0",
+    "dependencies": {
+      "handlebars": "^4.7.8",
+      "puppeteer-core": "^21.0.0",
+      "@sparticuz/chromium": "^109.0.0",
+      "pdf-to-png-converter": "^3.1.0"
+    }
+  }
